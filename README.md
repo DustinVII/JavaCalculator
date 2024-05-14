@@ -1,0 +1,2 @@
+# Calculator
+This is a simple Java calculator app I created as part of a school assignment at UNASAT. I've tried to build it object oriented by using a ```Calculator``` class with a constructor to do the calculations. The application can be executed via the ```Main``` class. The code looks much cleaner now. 
