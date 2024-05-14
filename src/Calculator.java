@@ -4,7 +4,7 @@ public class Calculator {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-
+//test
         while (true) {
             System.out.println("");
             System.out.println("Kies je optie:");
